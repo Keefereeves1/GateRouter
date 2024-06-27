@@ -1,5 +1,3 @@
-
-```markdown
 # Gate Router 🚀
 
 ## Table of Contents
@@ -39,7 +37,6 @@ identifier=$(python3 ./scripts/quantum_run_script.py | awk '{print $NF}')
 ---
 
 ## Explanation 🧠
-```bash
 # chmod +x ./scripts/quantum_run_script.py
 # This command makes the quantum_run_script.py script executable.
 
