@@ -5,7 +5,7 @@
 2. [Setting Execution Permissions](#setting-execution-permissions-🔒)
 3. [Running the Command](#running-the-command-🛠️)
 4. [Explanation](#explanation-🧠)
-5. [Why this is a useful repository, and is more then just changing your MAC address] (#About😀)
+5. [Why this is a useful repository, and is more then just changing your MAC address] (#about-😀)
 
 ---
 
@@ -74,7 +74,7 @@ This command runs the obfuscated_bash_script.sh script, passing the identifier a
 ---
 
 By following these steps, you ensure that your environment is set up correctly for running the quantum and obfuscated scripts, enhancing both security and functionality. 🌟
-
+---
 ## about 😉
 
 This is a project designed to route your IP tables and reset them and change all your MAC addresses on your network interfaces that are applicable on MacOS or Linux. Aside the tunneling or otherwise other purpose network interface cards. This is good for privacy and bypassing MAC based network filters on public wifis. this also sets a new IP address on your router. Doing a throuroigh job at changing your hardware fingerprint on networks! Due to backwards compatibility, some things may not be successful on Linux or Mac.
