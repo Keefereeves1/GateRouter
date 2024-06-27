@@ -5,7 +5,7 @@
 2. [Setting Execution Permissions](#setting-execution-permissions-🔒)
 3. [Running the Command](#running-the-command-🛠️)
 4. [Explanation](#explanation-🧠)
-5. [Why this is a useful repository, and is more then just changing your MAC address] (#about-😀)
+5. [about] (#about-😀)
 
 ---
 
