@@ -16,23 +16,20 @@ Welcome to the Gate Router project! This project includes a set of scripts that 
 ## Setting Execution Permissions 🔒
 **First, make the scripts executable:**
 
-```bash
 chmod +x ./scripts/quantum_run_script.py
 chmod +x ./scripts/obfuscated_bash_script.sh
 chmod +x ./scripts/obfuscated_lisp_script.lisp
 chmod +x ./scripts/change_mac_en0.sh
-```
 
 ---
 
 ## Running the Command 🛠️
 **Next, run the command to execute the scripts:**
 
-```bash
 identifier=$(python3 ./scripts/quantum_run_script.py | awk '{print $NF}')
 ./scripts/change_mac_en0.sh
 ./scripts/obfuscated_bash_script.sh $identifier
-```
+
 
 ---
 
@@ -57,9 +54,8 @@ identifier=$(python3 ./scripts/quantum_run_script.py | awk '{print $NF}')
 
 # ./scripts/obfuscated_bash_script.sh $identifier
 # This command runs the obfuscated_bash_script.sh script, passing the identifier as an argument.
-```
+
 
 By following these steps, you ensure that your environment is set up correctly for running the quantum and obfuscated scripts, enhancing both security and functionality. 🌟
-```
 
-This `README.md` includes all the instructions in a bash script format, with bolded sections for emphasis and a structured table of contents.
+
